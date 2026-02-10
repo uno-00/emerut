@@ -48,7 +48,7 @@ export default function SplashScreen({ onDone }) {
             style={{ width: `${progress}%` }}
           />
         </div>
-        <p className="splash-hint">Preparing your surprise...</p>
+        <p className="splash-hint">Preparing my surprise...</p>
       </div>
     </div>
   )
