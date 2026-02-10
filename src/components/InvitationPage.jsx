@@ -1,6 +1,6 @@
 import './InvitationPage.css'
 
-const PLACE_NAME = 'Rockwell Powerplant Mall'
+const PLACE_NAME = 'Rockwell, Powerplant Mall'
 const PLACE_ADDRESS = 'H27P+VH3, Rockwell Dr, Makati City, 12242 Metro Manila'
 const PLACE_MAPS_URL = '#' // Optional: add Google Maps link
 const DATE_TIME = 'Saturday, February 14th · 7:30 PM'
